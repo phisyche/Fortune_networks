@@ -1,5 +1,4 @@
-// MIT License
-// Copyright Peter Širka <petersirka@gmail.com>
+
 
 const Qs = require('querystring');
 const stats = { facebook: 0, google: 0,linkedin: 0, yahoo: 0, dropbox: 0, github: 0, yandex: 0, instagram: 0, vk: 0, live: 0 };
