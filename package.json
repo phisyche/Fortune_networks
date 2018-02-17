@@ -5,15 +5,16 @@
   "main": "release.js",
   "dependencies": {
     "paypal-express-checkout": "latest",
+    "pm2": "^2.9.3",
     "total.js": "latest"
   },
   "scripts": {
     "start": "node release.js"
-    },
+  },
   "keywords": [
     "eshop",
     "ecommerce"
   ],
   "author": "Syche",
-  "license":"MIT"
+  "license": "MIT"
 }
