@@ -74,8 +74,8 @@ h1, h2.large { font-weight: 200; font-family: $font; margin: 5px 0 30px 0; paddi
 h2 { font-size: 24px; font-family: $font; font-weight: 400; margin: 0 0 20px 0; padding: 0; color: black; }
 h2 .fa { margin-right: 10px; }
 
-.product { margin-bottom: 20px; padding-bottom: 20px; position: relative; border: 0.01px solid orange;}
-.product-picture { text-align: center; display: block; padding: 10px 0; }
+.product { margin-bottom: 20px; padding-bottom: 20px; position: relative; }
+.product-picture { text-align: center; display: block; padding: 10px 0; border: 0.01px solid orange }
 .product-picture img { margin: 0 auto; }
 .product-name { text-align: center; font-size: 16px; font-family: $font; display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
 .product-category { font-size: 12px; color: gray; text-align: center; display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
