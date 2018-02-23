@@ -32,7 +32,7 @@ form { padding: 0; margin: 0; }
 .categories-toggle { display: block !important; }
 .categories { padding: 0 0 8px; }
 .categories a { display: block; line-height: 16px; padding: 8px 0; background-color: white; text-align: center; color: gray; font-size: 14px; text-transform: uppercase; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-bottom: 15px; border-radius: 4px; font-family: $font; }
-.categories a:hover { background-color: #303030; color: white; text-decoration: none; }
+.categories a:hover { background-color: #ea9809; color: white; text-decoration: none; }
 .categories span { margin-left: 5px; }
 .categories .selected { background-color: black !important; color: white; }
 .categories .fa { margin-right: 5px; }
@@ -74,7 +74,7 @@ h1, h2.large { font-weight: 200; font-family: $font; margin: 5px 0 30px 0; paddi
 h2 { font-size: 24px; font-family: $font; font-weight: 400; margin: 0 0 20px 0; padding: 0; color: black; }
 h2 .fa { margin-right: 10px; }
 
-.product { margin-bottom: 20px; padding-bottom: 20px; position: relative; }
+.product { margin-bottom: 20px; padding-bottom: 20px; position: relative; border: 0.01px solid orange;}
 .product-picture { text-align: center; display: block; padding: 10px 0; }
 .product-picture img { margin: 0 auto; }
 .product-name { text-align: center; font-size: 16px; font-family: $font; display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
